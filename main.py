@@ -3,7 +3,6 @@ import random as r
 ### TIC TAC TOE GAME
 ### KNTU FALL 2022 Project
 ### Program Written by Emad Pourhassani 
-### Student No. 40116623
 ### Computer Science major
 
 ## -------------- Helper Functions -------------- ##
